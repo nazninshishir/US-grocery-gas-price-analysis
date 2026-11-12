@@ -1,0 +1,9 @@
+numpy
+pandas
+matplotlib
+seaborn
+kagglehub
+dash
+pandas-datareader
+dash-dynamic-grid-layout
+plotly
